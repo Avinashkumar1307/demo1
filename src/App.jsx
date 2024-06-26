@@ -14,7 +14,7 @@ import Navbar from './Navbar';
 export default function App() {
   return (
     <div className="w-full flex justify-center">
-      <div className="w-[390px] flex flex-col items-center">
+      <div className="w-[390px] flex flex-col items-center border-2">
         <div className="w-[339.66px] h-[12px] flex justify-between items-center my-[12px]">
           {/* Left side */}
           <div className='w-[54px] h-[21px] font-bold'>

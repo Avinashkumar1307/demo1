@@ -6,7 +6,7 @@ import order from './assets/order.png'
 import pic from './assets/pic.png'
 export default function Navbar() {
     return (
-        <div className='w-[390px] h-[80px] flex justify-between -mt-3 bg-white'>
+        <div className='w-[390px] h-[80px] flex justify-center -mt-3 bg-white'>
             <div className='w-[352px] h-[53px] flex justify-between items-center'>
                 <div className='flex justify-center items-center flex-col'>
                     <div><img src={home} alt='home' /></div>
